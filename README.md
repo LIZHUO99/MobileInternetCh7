@@ -13,7 +13,7 @@
 
 - （new feature）全屏时加入了一个control bar
 
-  <img src=".\snapshots\control_bar.jpg" width="300" />
+  <img src=".\snapshots\control_bar.jpg" width="500" />
 
 - （new feature）双击视频可暂停/播放
 
@@ -42,7 +42,7 @@ videoView.setOnClickListener(new View.OnClickListener() {
 
 - 小优化（把竖屏视频显示在中间）：
 
-<img src=".\snapshots\portrait_fullscreen.jpg" width="300" />
+<img src=".\snapshots\portrait_fullscreen.jpg" width="500" />
 
 ## 2. Pro功能
 
