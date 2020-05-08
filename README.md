@@ -9,11 +9,11 @@
 2. 拖动进度条可调整视频进度。
 3. 将屏幕横置后，视频全屏。
 
-<img src=".\snapshots\fundamental_function.gif" style="zoom: 33%;" />
+<img src=".\snapshots\fundamental_function.gif" width="300" />
 
 - （new feature）全屏时加入了一个control bar
 
-  <img src=".\snapshots\control_bar.jpg" style="zoom:33%;" />
+  <img src=".\snapshots\control_bar.jpg" width="500" />
 
 - （new feature）双击视频可暂停/播放
 
@@ -42,17 +42,17 @@ videoView.setOnClickListener(new View.OnClickListener() {
 
 - 小优化（把竖屏视频显示在中间）：
 
-<img src=".\snapshots\portrait_fullscreen.jpg" style="zoom:33%;" />
+<img src=".\snapshots\portrait_fullscreen.jpg" width="500" />
 
 ## 2. Pro功能
 
 - 打开系统视频：
 
-<img src=".\snapshots\open.gif" style="zoom:33%;" />
+<img src=".\snapshots\open.gif" width="300" />
 
 - 点击open按钮打开视频：
 
-<img src=".\snapshots\openButton.gif" style="zoom:33%;" />
+<img src=".\snapshots\openButton.gif" width="300" />
 
 
 
